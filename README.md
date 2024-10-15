@@ -80,7 +80,6 @@ Our mobile app aims to modernize event management by implementing an intuitive, 
 - **Pralhad** - [GitHub](https://github.com/Pralha17)
 - **Vinithkumar** - [GitHub](https://github.com/Vinith11)
 
----
 
 ## 📚 Resources
 
@@ -91,4 +90,3 @@ Our mobile app aims to modernize event management by implementing an intuitive, 
 
 - Special thanks to all contributors and testers who have helped improve this project.
 
----
