@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "801082618247",
+    "project_id": "flutter-signup-app-d7d78",
+    "storage_bucket": "flutter-signup-app-d7d78.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:801082618247:android:bc50993e40bbc11b932322",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCg_0m23CnSMDUEpj4VxxGQSyJRX8__WgE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
