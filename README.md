@@ -79,6 +79,7 @@ Our mobile app aims to modernize event management by implementing an intuitive, 
 - **Kartik** - [GitHub](https://github.com/kartik17k)
 - **Pralhad** - [GitHub](https://github.com/Pralha17)
 - **Vinithkumar** - [GitHub](https://github.com/Vinith11)
+- **Shreyas Huddar** - [GitHub](https://github.com/shreyashuddar29)
 
 
 ## 📚 Resources
